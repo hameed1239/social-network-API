@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hameed1239/social-network-API.git"
+  },
+  "author": "Hameed1239",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hameed1239/social-network-API/issues"
+  },
+  "homepage": "https://github.com/hameed1239/social-network-API#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mongoose": "^5.10.17"
+  }
+}
