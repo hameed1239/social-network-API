@@ -1,6 +1,6 @@
 # social-network-API
 
-  ![NPM](https://img.shields.io/badge/license-MIT-<green>) ![ NPM](https://img.shields.io/github/followers/hameed1239?style=social) ![ NPM](https://img.shields.io/github/languages/top/hameed1239/social-network-API) ![NPM](https://img.shields.io/github/forks/hameed1239/social-network-API?style=social)
+  ![NPM](https://img.shields.io/badge/license-MIT-<green>) ![ NPM](https://img.shields.io/github/followers/hameed1239?style=social) ![NPM](https://img.shields.io/github/forks/hameed1239/social-network-API?style=social)
 
   ## Description
   Social-Network-Api is a an API(backend) application that mimics the functionality of a social media application. When a user is created, user can invite friends to their friend lists, user can express their thoughts on another user's profile, user can also react to other user's thoughts.   
@@ -47,7 +47,7 @@
   [Walkthrough Video2](https://drive.google.com/file/d/1Pzd2U5W6Ej9Fokjm-Ck7R6j4mwEke0BM/view)
 
   [Walkthrough Video3](https://drive.google.com/file/d/1A_fOUvGP4WYEPq_RgOXY_COfi8qjc6dj/view)
-  
+
   [Walkthrough Video4](https://drive.google.com/file/d/17mIAhrvpf_Nad1-5yvjCIb0jgnDE3QZA/view)
 
   ## Questions
